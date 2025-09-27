@@ -14,9 +14,9 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.app",
+  title: "Payveri - Bitcoin to Naira",
+  description: "Convert Bitcoin to Naira instantly, pay merchants, pay merchants directly, and scale the best payment experiences.",
+  generator: "payveri.com",
 }
 
 export default function RootLayout({
